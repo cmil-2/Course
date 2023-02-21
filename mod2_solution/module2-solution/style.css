@@ -16,7 +16,7 @@ body{
 h1 {
   margin-bottom: 15px;
   text-align: center;
-  color: #ff4532;
+  color: #0b0b0b;
   font-size: 50px;
 }
 
@@ -59,10 +59,10 @@ h1 {
 
 .name2{
   color: white;
-  background-color: #FF0000;
+  background-color: #e04e2d;
 }
 .name3{
-  background-color: #FFFF00;
+  background-color: #b6b69f;
 }
 
 
